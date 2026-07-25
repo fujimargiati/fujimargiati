@@ -32,10 +32,10 @@ An LLM-powered media-intelligence platform I built end-to-end.
 
 Languages: Indonesian · Malay · English · Vietnamese (for NLP frameworks)
 
-## Featured writeups
+## Featured writeupsSmart 
 
-- **Smart Alert — Crisis Early-Warning System** *(coming soon)*
-- **Sentiment Engine: rule-based → ABSA → LLM** *(coming soon)*
+- **Smart Alert — Crisis Early-Warning System** *https://github.com/fujimargiati/smart-alert-concept*
+- **Sentiment Engine: rule-based → ABSA → LLM** *https://github.com/fujimargiati/sentiment-engine-evolution*
 
 ---
 
